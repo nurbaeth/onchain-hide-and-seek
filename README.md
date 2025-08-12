@@ -9,7 +9,7 @@ Hider calls hide(spot) to choose a secret location (1–5).
 Seeker calls seek(guess) to try to find the hider.  
     
 The game ends and the contract reveals the result.     
-     
+      
 Anyone can call resetGame() to start over.   
         
 ✨ Features
