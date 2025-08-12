@@ -12,7 +12,7 @@ The game ends and the contract reveals the result.
       
 Anyone can call resetGame() to start over.   
         
-✨ Features
+✨ Features 
 🧠 100% logic-based — no randomness, no dependencies.
    
 ⚙️ Stateless rounds — simple hide/seek/reset loop. 
