@@ -17,7 +17,7 @@ Anyone can call resetGame() to start over.
      
 ⚙️ Stateless rounds — simple hide/seek/reset loop.  
   
-🛡️ Prevents the same player from hiding and seeking.  
+🛡️ Prevents the same player from hiding and seeking.   
        
 🔒 Secret spot is stored privately (but visible on-chain for advanced seekers).  
  
