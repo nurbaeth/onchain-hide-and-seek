@@ -15,7 +15,7 @@ Anyone can call resetGame() to start over.
 ✨ Features   
 🧠 100% logic-based — no randomness, no dependencies.    
      
-⚙️ Stateless rounds — simple hide/seek/reset loop.  
+⚙️ Stateless rounds — simple hide/seek/reset loop.   
     
 🛡️ Prevents the same player from hiding and seeking.   
        
