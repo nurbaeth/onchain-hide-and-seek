@@ -1,5 +1,5 @@
 🕵️‍♀️ onchain-hide-and-seek           
-A fully on-chain "Hide and Seek" game written in Solidity.         
+A fully on-chain "Hide and Seek" game written in Solidity.          
 One player hides in a secret spot, and another tries to find them.      
 No tokens. No rewards. Just pure game logic on the blockchain.          
           
