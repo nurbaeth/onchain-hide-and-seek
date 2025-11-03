@@ -6,7 +6,7 @@ No tokens. No rewards. Just pure game logic on the blockchain.
 🎮 Game Flow         
 Hider calls hide(spot) to choose a secret location (1–5).        
            
-Seeker calls seek(guess) to try to find the hider.    
+Seeker calls seek(guess) to try to find the hider.     
        
 The game ends and the contract reveals the result.        
        
