@@ -19,5 +19,5 @@ Anyone can call resetGame() to start over.
       
 🛡️ Prevents the same player from hiding and seeking.     
          
-🔒 Secret spot is stored privately (but visible on-chain for advanced seekers).    
+🔒 Secret spot is stored privately (but visible on-chain for advanced seekers).     
  
